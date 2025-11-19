@@ -6,7 +6,7 @@ Welcome to my Coda School katas dojo! This is where coding meets fun, learning, 
 ## 📜 Available Katas
 
 
-- [003-pricing - Rust🦀](https://github.com/coda-school/coda-katas/tree/main/03.pricing)
+- [003-pricing](https://github.com/coda-school/coda-katas/tree/main/03.pricing) - Made in Rust🦀 [here](./003-pricing/)
 
 ## 🚀 Run the Code
 
